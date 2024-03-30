@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">chorebuddyv3</string>
+    <string name="home">Home</string>
+    <string name="new_chore">New Chore</string>
+    <string name="added_chore">Added Chore</string>
+    <string name="chore_detail">Chore Detail</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="intro_screen">Introduction</string>
+    <string name="back_button">Back</string>
+
+
+
+
+</resources>
